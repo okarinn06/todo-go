@@ -2,8 +2,8 @@
 
 ## Requirement
 
-- [Go 1.22+](https://go.dev/download)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- Go 1.22+
+- Docker
 
 ## How to run
 
